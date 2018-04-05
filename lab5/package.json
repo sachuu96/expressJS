@@ -1,0 +1,14 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "1st exersice on express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
